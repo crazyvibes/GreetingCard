@@ -2,11 +2,12 @@
 //  InfoView.swift
 //  I Am Rich
 //
-//  Created by Roam on 17/03/23.
+//  Created by BK on 17/03/23.
 //
 
 import SwiftUI
 
+//created another swiftUI class
 struct InfoView: View {
     let text:String
     let imageName:String

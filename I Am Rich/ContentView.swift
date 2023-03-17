@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  I Am Rich
 //
-//  Created by Roam on 16/03/23.
+//  Created by BK on 16/03/23.
 //
 
 import SwiftUI
@@ -26,7 +26,7 @@ struct ContentView: View {
                     .foregroundColor(.white)
                     .font(Font.custom("Poppins-SemiBold", size: 20))
                 Divider()
-                InfoView(text: "+91 99050 95XX", imageName: "phone.fill")
+                InfoView(text: "+91 99050 950XX", imageName: "phone.fill")
                 InfoView(text: "bkm123r@gmail.com", imageName: "envelope.fill")
                
             }
