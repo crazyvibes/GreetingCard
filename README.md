@@ -1,4 +1,4 @@
 # GreetingCard
 - This is basic iOS app design using swiftUI.
 
-![biopreview](https://user-images.githubusercontent.com/39742247/225821454-8c56a3c0-16bd-4447-abce-929e2ad6f48a.png)
+![profile-removebg-preview](https://user-images.githubusercontent.com/39742247/225825631-5474c3ac-07be-48b5-8f7e-99c502ff78a6.png)
